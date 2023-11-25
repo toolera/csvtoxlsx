@@ -11,19 +11,19 @@
 
 
 🌱 I’m currently learning:
-  👨🏻‍💻 Full Stack engineering
+  <p>👨🏻‍💻 Full Stack engineering </p>
 
-👯 I’m looking to collaborate on Open Source Chat Bot Projects
+<p>👯 I’m looking to collaborate on Open Source Chat Bot Projects<p/>
 
 📫 How to reach me:
-  LinkedIn: https://www.linkedin.com/in/ismat-samadov-42414b241/
-  GitHub: https://github.com/ismat-samadov
-  Kaggle: https://www.kaggle.com/ismetsemedov
-  Hackerrank: https://www.hackerrank.com/profile/IsmatSamadov
-  Leetcode: https://leetcode.com/ismetsemedov/
-  StackOverflow: https://stackoverflow.com/users/20137229/ismats?tab=profile
-  Youtube: https://www.youtube.com/@ismatsamadov7406
-  Medium: https://medium.com/@ismatsamadov
-  Gmail: ismetsemedov@gmail.com
+  <p>LinkedIn: https://www.linkedin.com/in/ismat-samadov-42414b241/ <p/>
+  <p>GitHub: https://github.com/ismat-samadov <p/>
+  <p>Kaggle: https://www.kaggle.com/ismetsemedov <p/>
+  <p>Hackerrank: https://www.hackerrank.com/profile/IsmatSamadov <p/>
+  <p>Leetcode: https://leetcode.com/ismetsemedov/ <p/>
+  <p>StackOverflow: https://stackoverflow.com/users/20137229/ismats?tab=profile <p/>
+  <p>Youtube: https://www.youtube.com/@ismatsamadov7406 <p/>
+  <p>Medium: https://medium.com/@ismatsamadov <p/>
+  <p>Gmail: ismetsemedov@gmail.com <p/>
 
 
