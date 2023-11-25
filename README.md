@@ -2,12 +2,12 @@
 
 
 🔭 Expertise:
-<p>Containerization Tools: Docker   <p/>
-<p>Version Control: Git   <p/>
-<p>Data Analyse: Excell, Power BI, Tablue, Oracle SQL, Python   <p/>
-<p>Machine Learning: TensorFlow, Keras, Streamlit, SKlearn   <p/>
-<p>Web Scraping: Scrapy, Beautiful Soup, Selenium, Selectolax   <p/>
-<p>Web development: HTML, CSS, JavaScript   <p/>
+<p>  Containerization Tools: Docker   <p/>
+<p>  Version Control: Git   <p/>
+<p>  Data Analyse: Excell, Power BI, Tablue, Oracle SQL, Python   <p/>
+<p>  Machine Learning: TensorFlow, Keras, Streamlit, SKlearn   <p/>
+<p>  Web Scraping: Scrapy, Beautiful Soup, Selenium, Selectolax   <p/>
+<p>  Web development: HTML, CSS, JavaScript   <p/>
 
 
 🌱 I’m currently learning:
