@@ -21,10 +21,10 @@
       <li>GitHub: https://github.com/ismat-samadov </li>
       <li>Kaggle: https://www.kaggle.com/ismetsemedov </li>
       <li>Hackerrank: https://www.hackerrank.com/profile/IsmatSamadov </li>
-      <li>Leetcode: https://leetcode.com/ismetsemedov/ <li/>
+      <li>Leetcode: https://leetcode.com/ismetsemedov/ </li>
       <li>StackOverflow: https://stackoverflow.com/users/20137229/ismats?tab=profile </li>
       <li>Youtube: https://www.youtube.com/@ismatsamadov7406 </li>
-      <li>Medium: https://medium.com/@ismatsamadov <li/>
+      <li>Medium: https://medium.com/@ismatsamadov </li>
       <li>Gmail: ismetsemedov@gmail.com </li>
   </ul>
 
