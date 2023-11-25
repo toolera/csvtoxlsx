@@ -13,7 +13,7 @@
 
 <h3>🌱 I’m currently learning:</h3>
   <ul>
-    <li>👨🏻‍💻 Full Stack engineering </ul>li>
+    <li>👨🏻‍💻 Full Stack engineering </li>
     <ul/>
 
 <p>👯 I’m looking to collaborate on Open Source Chat Bot Projects<p/>
