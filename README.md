@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ismat-Samadov/Ismat-Samadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on different ML engineering projects
 - 🌱 I’m currently learning Model Deployment
@@ -20,4 +16,3 @@ Here are some ideas to get you started:
 </body>
 </html>
 
--->
