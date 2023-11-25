@@ -16,8 +16,6 @@
     <li>👨🏻‍💻 Full Stack engineering </li>
     <ul/>
 
-<p>👯 I’m looking to collaborate on Open Source Chat Bot Projects<p/>
-
 <h3>📫 How to reach me:</h3>
   <li>LinkedIn: https://www.linkedin.com/in/ismat-samadov-42414b241/ <li/>
   <li>GitHub: https://github.com/ismat-samadov <li/>
