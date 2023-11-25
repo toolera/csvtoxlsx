@@ -17,15 +17,15 @@
 
 <h3>📫 How to reach me:</h3>
 <ul>
-  <li>LinkedIn: https://www.linkedin.com/in/ismat-samadov-42414b241/ <li/>
-  <li>GitHub: https://github.com/ismat-samadov <li/>
-  <li>Kaggle: https://www.kaggle.com/ismetsemedov <li/>
-  <li>Hackerrank: https://www.hackerrank.com/profile/IsmatSamadov <li/>
+  <li>LinkedIn: https://www.linkedin.com/in/ismat-samadov-42414b241/ </li>
+  <li>GitHub: https://github.com/ismat-samadov </li>
+  <li>Kaggle: https://www.kaggle.com/ismetsemedov </li>
+  <li>Hackerrank: https://www.hackerrank.com/profile/IsmatSamadov </li>
   <li>Leetcode: https://leetcode.com/ismetsemedov/ <li/>
-  <li>StackOverflow: https://stackoverflow.com/users/20137229/ismats?tab=profile <li/>
-  <li>Youtube: https://www.youtube.com/@ismatsamadov7406 <li/>
+  <li>StackOverflow: https://stackoverflow.com/users/20137229/ismats?tab=profile </li>
+  <li>Youtube: https://www.youtube.com/@ismatsamadov7406 </li>
   <li>Medium: https://medium.com/@ismatsamadov <li/>
-  <li>Gmail: ismetsemedov@gmail.com <li/>
+  <li>Gmail: ismetsemedov@gmail.com </li>
   </ul>
 
 
