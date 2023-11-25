@@ -2,7 +2,7 @@
 
 
 🔭 Expertise:
-<p>  Containerization Tools: Docker   <p/>
+<ul>  Containerization Tools: Docker   <ul/>
 <p>  Version Control: Git   <p/>
 <p>  Data Analyse: Excell, Power BI, Tablue, Oracle SQL, Python   <p/>
 <p>  Machine Learning: TensorFlow, Keras, Streamlit, SKlearn   <p/>
