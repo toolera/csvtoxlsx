@@ -2,12 +2,14 @@
 
 
 🔭 Expertise:
+<p>
   Containerization Tools: Docker
   Version Control: Git
   Data Analyse: Excell, Power BI, Tablue, Oracle SQL, Python
   Machine Learning: TensorFlow, Keras, Streamlit, SKlearn
   Web Scraping: Scrapy, Beautiful Soup, Selenium, Selectolax
   Web development: HTML, CSS, JavaScript
+  <p/>
 
 🌱 I’m currently learning:
   👨🏻‍💻 Full Stack engineering
