@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on different ML engineering projects
+- 🌱 I’m currently learning Model Deployment
+- 👯 I’m looking to collaborate on Data Enthusiast
+- 💬 Ask me about ML,Data Science,Data Analyse,Python,SQL,Java,JavaScript,HTML,CSS
+
+
+<!DOCTYPE html>
+<html>
+<body>
+  <p>- 📫 How to reach me <a href="https://www.linkedin.com/in/ismat-samadov-42414b241/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="20" height="20">
+  </a></p>
+</body>
+</html>
+
 -->
