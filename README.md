@@ -1,23 +1,30 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+</head>
+<body>
 
 <h3>🔭 Expertise:</h3>
 <ul>
     <li>Containerization Tools: Docker</li>
     <li>Version Control: Git</li>
-    <li>Data Analyse: Excell, Power BI, Tablue, Oracle SQL, Python</li>
-    <li>Machine Learning: TensorFlow, Keras, Streamlit, SKlearn</li>
+    <li>Data Analyse: Excel, Power BI, Tableau, Oracle SQL, Python</li>
+    <li>Machine Learning: TensorFlow, Keras, Streamlit, Scikit-Learn</li>
     <li>Web Scraping: Scrapy, Beautiful Soup, Selenium, Selectolax </li>
     <li>Web development: HTML, CSS, JavaScript</li>
 </ul>
 
 <h3>🌱 I’m currently learning:</h3>
-  <ul>
+<ul>
     <li>👨🏻‍💻 Full Stack engineering </li>
-  </ul>
+</ul>
 
 <h3>📫 How to reach me:</h3>
 <ul>
-     <li><a href="https://www.linkedin.com/in/ismat-samadov-42414b241/" target="_blank">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/ismat-samadov-42414b241/" target="_blank">LinkedIn</a></li>
     <li><a href="https://github.com/ismat-samadov" target="_blank">GitHub</a></li>
     <li><a href="https://www.kaggle.com/ismetsemedov" target="_blank">Kaggle</a></li>
     <li><a href="https://www.hackerrank.com/profile/IsmatSamadov" target="_blank">Hackerrank</a></li>
@@ -26,7 +33,7 @@
     <li><a href="https://www.youtube.com/@ismatsamadov7406" target="_blank">Youtube</a></li>
     <li><a href="https://medium.com/@ismatsamadov" target="_blank">Medium</a></li>
     <li><a href="mailto:ismetsemedov@gmail.com" target="_blank">Gmail</a></li>
+</ul>
 
-  </ul>
-
-
+</body>
+</html>
