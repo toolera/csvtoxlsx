@@ -17,7 +17,6 @@
 <ul>
     <li><a href="https://ismat-samadov.github.io/html_resume/" target="_blank">Website</a></li>
     <li><a href="https://www.linkedin.com/in/ismat-samadov-42414b241/" target="_blank">LinkedIn</a></li>
-    <li><a href="https://github.com/ismat-samadov" target="_blank">GitHub</a></li>
     <li><a href="https://www.kaggle.com/ismetsemedov" target="_blank">Kaggle</a></li>
     <li><a href="https://www.hackerrank.com/profile/IsmatSamadov" target="_blank">Hackerrank</a></li>
     <li><a href="https://leetcode.com/ismetsemedov/" target="_blank">Leetcode</a></li>
