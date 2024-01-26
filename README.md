@@ -7,7 +7,3 @@
     <li>Web Scraping: Scrapy, Beautiful Soup, Selenium, Selectolax </li>
     <li>Web development: HTML, CSS, JavaScript</li>
 </ul>
-
-<h3>🌱 I’m currently learning:</h3>
-  <ul>
-  
