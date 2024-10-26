@@ -21,6 +21,13 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 ![GitHub Repos](https://img.shields.io/badge/Repositories-30%2B-blue)
 ![GitHub Followers](https://img.shields.io/badge/Followers-500%2B-yellow)
 
+## ⏲️ Coding Stats
+<!-- Replace "your-wakatime-username" with your actual Wakatime username -->
+[![Ismat's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)](https://wakatime.com/@your-wakatime-username)
+
+## 📈 Commit Graph
+![Ismat's GitHub Commit Graph](https://activity-graph.herokuapp.com/graph?username=Ismat-Samadov&theme=radical)
+
 ## 🔬 Current Projects
 - **CareerHorizon** - A recruitment platform with intelligent job matching algorithms, aggregating job postings from multiple sources.
 - **Breast Cancer Detection** - Leveraging deep learning to improve diagnostic accuracy for breast cancer detection, as part of the RSNA Kaggle competition.
@@ -33,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 - [Home Price Prediction](https://github.com/Ismat-Samadov/Home_Price_Prediciton) - A predictive model for home prices in Azerbaijan.
 - [Sales Forecasting](https://github.com/Ismat-Samadov/Sales_Forecasting) - Adidas sales forecasting using time-series analysis and ML techniques.
 - [Loan Eligibility Prediction](https://github.com/Ismat-Samadov/Loan_Eligiblity) - A predictive model to determine loan eligibility based on various factors.
+- [Fake News Detection](https://github.com/Ismat-Samadov/Fake_News_Detection) - A natural language processing model to detect fake news articles.
 
 ## 🌱 On My Learning Path
 - Exploring advanced NLP techniques to enhance insights from unstructured text data
