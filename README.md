@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 [![Ismat's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)](https://wakatime.com/@your-wakatime-username)
 
 ## 📈 Commit Graph
-![Ismat's GitHub Commit Graph](https://activity-graph.herokuapp.com/graph?username=Ismat-Samadov&theme=radical)
+![Ismat's GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ismat-Samadov&theme=radical)
 
 ## 🔬 Current Projects
 - **CareerHorizon** - A recruitment platform with intelligent job matching algorithms, aggregating job postings from multiple sources.
