@@ -9,8 +9,17 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 ## 📈 GitHub Stats
 ![Ismat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismat-Samadov&show_icons=true&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ismat-Samadov&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismat-Samadov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ismat-Samadov&theme=radical&no-frame=true&margin-w=5)
+
+## 📊 Additional Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Ismat-Samadov&color=blueviolet)
+![GitHub Contributions](https://img.shields.io/badge/Contributions-100%2B-brightgreen)
+![GitHub Repos](https://img.shields.io/badge/Repositories-30%2B-blue)
+![GitHub Followers](https://img.shields.io/badge/Followers-500%2B-yellow)
 
 ## 🔬 Current Projects
 - **CareerHorizon** - A recruitment platform with intelligent job matching algorithms, aggregating job postings from multiple sources.
@@ -19,9 +28,11 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 - **Loan Eligibility Prediction** - A full-stack app built with Flask, forecasting loan eligibility based on various demographic and financial indicators.
 
 ## 📂 Featured Repositories
-- [Sales Forecasting](https://github.com/Ismat-Samadov/Sales_Forecasting) - Time-series analysis and machine learning for accurate sales predictions.
-- [Loan Eligibility Prediction](https://github.com/Ismat-Samadov/Loan_Eligiblity) - A predictive model determining loan eligibility based on various factors.
-- [Tasks_DS](https://github.com/Ismat-Samadov/tasks_DS) - Collection of data science tasks, solutions, and analyses from my recent projects.
+- [Budget Prediction](https://github.com/Ismat-Samadov/Budget_Prediction) - Budget analysis and prediction based on real-world data.
+- [Car Price Prediction](https://github.com/Ismat-Samadov/Car_Price_Prediction) - Predicting car prices in the Azerbaijan market using ML models.
+- [Home Price Prediction](https://github.com/Ismat-Samadov/Home_Price_Prediciton) - A predictive model for home prices in Azerbaijan.
+- [Sales Forecasting](https://github.com/Ismat-Samadov/Sales_Forecasting) - Adidas sales forecasting using time-series analysis and ML techniques.
+- [Loan Eligibility Prediction](https://github.com/Ismat-Samadov/Loan_Eligiblity) - A predictive model to determine loan eligibility based on various factors.
 
 ## 🌱 On My Learning Path
 - Exploring advanced NLP techniques to enhance insights from unstructured text data
@@ -30,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/ismat-samadov)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:ismetsemedov@gmail.com)
 
 > "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
 
