@@ -22,10 +22,36 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 ![GitHub Followers](https://img.shields.io/badge/Followers-500%2B-yellow)
 
 ## 🔬 Current Projects
-- **CareerHorizon** - A recruitment platform with intelligent job matching algorithms, aggregating job postings from multiple sources.
-- **Breast Cancer Detection** - Leveraging deep learning to improve diagnostic accuracy for breast cancer detection, as part of the RSNA Kaggle competition.
-- **Sales Forecasting** - A machine learning project predicting sales trends, with data visualization and analysis components.
-- **Loan Eligibility Prediction** - A full-stack app built with Flask, forecasting loan eligibility based on various demographic and financial indicators.
+- **Breast Cancer Detection**  
+  This project leverages advanced machine learning techniques to improve diagnostic accuracy for breast cancer detection. Developed as part of the RSNA Kaggle competition, the goal is to build a model that can accurately classify breast cancer lesions, enhancing early detection and supporting healthcare professionals in diagnostic decisions.
+
+  ### Project Goals
+  - Develop an accurate predictive model for identifying malignant and benign breast cancer lesions.
+  - Use real-world mammography imaging data to build a scalable solution for healthcare applications.
+  - Test the impact of different preprocessing techniques and feature engineering methods on model performance.
+
+  ### Methodology
+  - **Data Collection**: Leveraged the high-quality RSNA Kaggle dataset, which includes mammogram images labeled as benign or malignant.
+  - **Data Preprocessing**:
+    - Applied image resizing, scaling, and normalization to standardize inputs.
+    - Used data augmentation techniques (rotation, flipping, brightness adjustments) to improve model generalization.
+  - **Feature Engineering**: Extracted key features such as texture, edge patterns, and pixel intensity.
+  - **Model Selection and Training**:
+    - **CNN Architecture**: Employed convolutional neural networks (CNNs), testing architectures like ResNet, VGG, and EfficientNet.
+    - **Transfer Learning**: Utilized transfer learning from pre-trained models, benefiting from large-scale data insights to improve accuracy and training speed.
+    - **Cross-Validation**: Used k-fold cross-validation for robust performance evaluation.
+  - **Performance Metrics**: Evaluated model performance with metrics crucial for medical diagnosis: accuracy, sensitivity, specificity, precision, recall, and F1 score.
+
+  ### Outcomes
+  - The optimized model achieved **[XX]% accuracy**, **[XX]% sensitivity**, and **[XX]% specificity** on the validation set, showing strong diagnostic capability.
+  - Identified key preprocessing and feature engineering techniques that can further improve model reliability in clinical settings.
+
+  ### Future Directions
+  - Explore **ensemble methods** (e.g., CNNs with random forest) to further enhance prediction accuracy.
+  - Investigate **Explainable AI** methods to provide visual explanations for model predictions, aiding radiologists in interpreting results.
+  - Integrate multi-modal data (e.g., patient age, family history) to improve diagnostic insights.
+
+  This project showcases the potential of AI in healthcare, aiming to assist radiologists with an early cancer detection tool. With accurate predictions, this project can significantly contribute to positive patient outcomes and healthcare advancements.
 
 ## 📂 Featured Repositories
 - [Budget Prediction](https://github.com/Ismat-Samadov/Budget_Prediction) - Budget analysis and prediction based on real-world data.
