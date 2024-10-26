@@ -43,7 +43,6 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
   - **Performance Metrics**: Evaluated model performance with metrics crucial for medical diagnosis: accuracy, sensitivity, specificity, precision, recall, and F1 score.
 
   ### Outcomes
-  - The optimized model achieved **[XX]% accuracy**, **[XX]% sensitivity**, and **[XX]% specificity** on the validation set, showing strong diagnostic capability.
   - Identified key preprocessing and feature engineering techniques that can further improve model reliability in clinical settings.
 
   ### Future Directions
