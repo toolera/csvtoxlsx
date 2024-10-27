@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ismat Samadov
 
-Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights, developing robust machine learning models, and building full-stack applications with real-world impact.
+Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights, developing robust machine learning models, and building full-stack applications that drive real-world impact.
 
 ## 🚀 About Me
-- 💼 **Data & Product Analyst** with hands-on experience in healthcare, finance, and tech sectors.
-- 🎓 Currently pursuing an MBA in Artificial Intelligence at the Azerbaijan State University of Economics.
-- 💻 Skilled in Python, SQL, and advanced analytics, with an ongoing focus on machine learning and AI.
+- 💼 **Data & Product Analyst** with a strong foundation in analyzing complex datasets, creating predictive models, and delivering data-driven insights across healthcare, finance, and technology sectors.
+- 🎓 Currently advancing my expertise in Artificial Intelligence through an MBA at the Azerbaijan State University of Economics, with a focus on practical applications of AI in business and healthcare.
+- 📊 Experienced in designing end-to-end analytical solutions that optimize decision-making processes and enhance strategic outcomes, with a continued focus on innovative machine learning and AI projects.
 
 ## 📈 GitHub Stats
 ![Ismat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismat-Samadov&show_icons=true&theme=radical)
