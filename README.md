@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 - Continuing my journey in deep learning, focusing on applications in healthcare
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/ismat-samadov)
+- [LinkedIn](https://www.linkedin.com/in/ismatsamadov)
 - [Email](mailto:ismetsemedov@gmail.com)
 
 > "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
