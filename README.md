@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Ismat Samadov
 
-Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights, developing robust machine learning models, and building full-stack applications that drive real-world impact.
+Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machine learning, predictive modeling, and full-stack development. My focus is on creating practical AI solutions that drive business value, particularly in banking, healthcare, and finance sectors.
 
 ## 🚀 About Me
-- 💼 **Data & Product Analyst** with a strong foundation in analyzing complex datasets, creating predictive models, and delivering data-driven insights across healthcare, finance, and technology sectors.
-- 🎓 Currently advancing my expertise in Artificial Intelligence through an MBA at the Azerbaijan State University of Economics, with a focus on practical applications of AI in business and healthcare.
-- 📊 Experienced in designing end-to-end analytical solutions that optimize decision-making processes and enhance strategic outcomes, with a continued focus on innovative machine learning and AI projects.
+- 💼 **Data & Product Analyst** with expertise in predictive modeling, CLV analysis, and machine learning applications
+- 🎓 Pursuing an MBA in Artificial Intelligence at Azerbaijan State University of Economics
+- 🛠️ Experienced in developing end-to-end ML solutions, from data processing to API deployment
+- 📊 Specialized in financial modeling, customer analytics, and risk assessment
 
 ## 📈 GitHub Stats
 ![Ismat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismat-Samadov&show_icons=true&theme=radical)
@@ -15,31 +16,47 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ismat-Samadov&theme=radical&no-frame=true&margin-w=5)
 
-## 📊 Additional Stats
+## 📊 Profile Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=Ismat-Samadov&color=blueviolet)
 ![GitHub Contributions](https://img.shields.io/badge/Contributions-100%2B-brightgreen)
 ![GitHub Repos](https://img.shields.io/badge/Repositories-30%2B-blue)
 ![GitHub Followers](https://img.shields.io/badge/Followers-500%2B-yellow)
 
-## 📂 Featured Repositories
-- [Budget Prediction](https://github.com/Ismat-Samadov/Budget_Prediction) - Budget analysis and prediction based on real-world data.
-- [Car Price Prediction](https://github.com/Ismat-Samadov/Car_Price_Prediction) - Predicting car prices in the Azerbaijan market using ML models.
-- [Home Price Prediction](https://github.com/Ismat-Samadov/Home_Price_Prediciton) - A predictive model for home prices in Azerbaijan.
-- [Sales Forecasting](https://github.com/Ismat-Samadov/Sales_Forecasting) - Adidas sales forecasting using time-series analysis and ML techniques.
-- [Loan Eligibility Prediction](https://github.com/Ismat-Samadov/Loan_Eligiblity) - A predictive model to determine loan eligibility based on various factors.
-- [Fake News Detection](https://github.com/Ismat-Samadov/Fake_News_Detection) - A natural language processing model to detect fake news articles.
-- [Fraud Detection](https://github.com/Ismat-Samadov/fraud_detection) - An end-to-end fraud detection model with synthetic data generation, deployed as a web app for real-time predictions.
+## 🔥 Featured Projects
 
-## 🌱 On My Learning Path
-- Exploring advanced NLP techniques to enhance insights from unstructured text data
-- Practicing on Kaggle competitions to refine my predictive modeling skills
-- Continuing my journey in deep learning, focusing on applications in healthcare
+### Banking & Finance
+- [**CLV Prediction Model**](https://clv-model.onrender.com/) - Advanced Customer Lifetime Value prediction system using gradient boosting and FastAPI
+- [**Budget Prediction**](https://github.com/Ismat-Samadov/Budget_Prediction) - ML-powered budget analysis and forecasting
+- [**Loan Eligibility Prediction**](https://github.com/Ismat-Samadov/Loan_Eligiblity) - Automated loan assessment system
+
+### Real Estate & Automotive
+- [**Home Price Prediction**](https://github.com/Ismat-Samadov/Home_Price_Prediciton) - Real estate valuation model for Azerbaijan market
+- [**Car Price Prediction**](https://github.com/Ismat-Samadov/Car_Price_Prediction) - Vehicle price estimation using advanced ML algorithms
+
+### Analytics & ML Applications
+- [**Sales Forecasting**](https://github.com/Ismat-Samadov/Sales_Forecasting) - Time-series analysis for Adidas sales prediction
+- [**Fraud Detection**](https://github.com/Ismat-Samadov/fraud_detection) - Real-time fraud detection system with synthetic data generation
+- [**Fake News Detection**](https://github.com/Ismat-Samadov/Fake_News_Detection) - NLP-based fake news classification system
+
+## 💻 Technical Skills
+- **Languages**: Python, SQL, JavaScript
+- **ML/DL**: scikit-learn, TensorFlow, PyTorch
+- **Web Development**: FastAPI, React, Node.js
+- **Data Processing**: pandas, NumPy, PySpark
+- **Visualization**: Matplotlib, Seaborn, Plotly
+- **Cloud & DevOps**: Render, Vercel, Git
+
+## 🌱 Current Focus
+- Advancing deep learning applications in financial forecasting
+- Exploring transformer models for time-series prediction
+- Developing scalable ML systems for real-time analytics
+- Contributing to open-source ML projects
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/ismatsamadov)
 - [Email](mailto:ismetsemedov@gmail.com)
 
-> "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
+> "In God we trust, all others must bring data." - W. Edwards Deming
 
-Thanks for stopping by! Feel free to explore my repositories, reach out with questions, or connect with me professionally. Let’s make data-driven change happen!
-
+---
+*Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration opportunities.*
