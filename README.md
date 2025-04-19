@@ -53,8 +53,7 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 - Contributing to open-source ML projects
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/ismatsamadov)
-- [Email](mailto:ismetsemedov@gmail.com)
+- [Website](https://www.ismat.pro/)
 
 > "In God we trust, all others must bring data." - W. Edwards Deming
 
