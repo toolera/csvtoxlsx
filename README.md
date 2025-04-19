@@ -52,8 +52,6 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 - Developing scalable ML systems for real-time analytics
 - Contributing to open-source ML projects
 
-## 📫 Let's Connect!
-- [Website](https://www.ismat.pro/)
 
 > "In God we trust, all others must bring data." - W. Edwards Deming
 
