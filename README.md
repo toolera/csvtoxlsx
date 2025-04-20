@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Ismat Samadov
-
 Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machine learning, predictive modeling, and full-stack development. My focus is on creating practical AI solutions that drive business value, particularly in banking, healthcare, and finance sectors.
 
 ## 🚀 About Me
@@ -24,6 +23,10 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 
 ## 🔥 Featured Projects
 
+### Natural Language Processing & AI
+- [**Named Entity Recognition for Azerbaijani**](https://github.com/Ismat-Samadov/Named_Entity_Recognition) - Custom NER model for Azerbaijani language with FastAPI deployment and interactive demo
+- [**Azerbaijani Language GPT Model**](https://github.com/Ismat-Samadov/GPT) - GPT implementation trained on Azerbaijani Wikipedia data for text generation
+
 ### Banking & Finance
 - [**CLV Prediction Model**](https://clv-model.onrender.com/) - Advanced Customer Lifetime Value prediction system using gradient boosting and FastAPI
 - [**Budget Prediction**](https://github.com/Ismat-Samadov/Budget_Prediction) - ML-powered budget analysis and forecasting
@@ -40,20 +43,28 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 
 ## 💻 Technical Skills
 - **Languages**: Python, SQL, JavaScript
-- **ML/DL**: scikit-learn, TensorFlow, PyTorch
+- **ML/DL**: scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers
+- **NLP**: Named Entity Recognition, Language Modeling, Text Generation
 - **Web Development**: FastAPI, React, Node.js
 - **Data Processing**: pandas, NumPy, PySpark
 - **Visualization**: Matplotlib, Seaborn, Plotly
-- **Cloud & DevOps**: Render, Vercel, Git
+- **Cloud & DevOps**: Render, Vercel, Git, Fly.io
+
+## 🌐 Language Technologies
+- Custom NER models for Azerbaijani language
+- GPT implementation for Azerbaijani text generation
+- Multilingual model fine-tuning (mBERT, XLM-RoBERTa)
+- Low-resource language computing and NLP
 
 ## 🌱 Current Focus
 - Advancing deep learning applications in financial forecasting
 - Exploring transformer models for time-series prediction
 - Developing scalable ML systems for real-time analytics
 - Contributing to open-source ML projects
-
+- Building NLP tools for the Azerbaijani language
 
 > "In God we trust, all others must bring data." - W. Edwards Deming
 
 ---
 *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration opportunities.*
+*Visit my website: [ismat.pro](https://www.ismat.pro/)*
