@@ -7,20 +7,6 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 - 🛠️ Experienced in developing end-to-end ML solutions, from data processing to API deployment
 - 📊 Specialized in financial modeling, customer analytics, and risk assessment
 
-## 📈 GitHub Stats
-![Ismat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismat-Samadov&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ismat-Samadov&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismat-Samadov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ismat-Samadov&theme=radical&no-frame=true&margin-w=5)
-
-## 📊 Profile Statistics
-![Profile Views](https://komarev.com/ghpvc/?username=Ismat-Samadov&color=blueviolet)
-![GitHub Contributions](https://img.shields.io/badge/Contributions-100%2B-brightgreen)
-![GitHub Repos](https://img.shields.io/badge/Repositories-30%2B-blue)
-![GitHub Followers](https://img.shields.io/badge/Followers-500%2B-yellow)
-
 ## 🔥 Featured Projects
 
 ### Natural Language Processing & AI
