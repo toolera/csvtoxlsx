@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 
 ## 🔥 Featured Projects
 
+### Healthcare & Medical Imaging
+- [**Chest Cancer Detection**](https://github.com/Ismat-Samadov/chest_cancer_detection) - Deep learning model for detecting cancer in chest CT scans using DenseNet121 with attention mechanisms, deployed as a web application
+
 ### Natural Language Processing & AI
 - [**Named Entity Recognition for Azerbaijani**](https://github.com/Ismat-Samadov/Named_Entity_Recognition) - Custom NER model for Azerbaijani language with FastAPI deployment and interactive demo
 - [**Azerbaijani Language GPT Model**](https://github.com/Ismat-Samadov/GPT) - GPT implementation trained on Azerbaijani Wikipedia data for text generation
@@ -53,5 +56,4 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 
 ---
 *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration opportunities.*
-
 *Visit my website: [ismat.pro](https://www.ismat.pro/)*
