@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 ## 🔥 Featured Projects
 
 ### Computer Vision & Medical Imaging
-- [**Tree Disease Detection**](https://github.com/Ismat-Samadov/crop_desease_detection) - YOLOv8-based model achieving 93.3% mAP50 for detecting diseased trees in aerial UAV imagery. [Live Demo](https://huggingface.co/spaces/IsmatS/tree-disease-detector-demo) | [Model](https://huggingface.co/IsmatS/crop_desease_detection)
+- [**Tree Disease Detection**](https://github.com/Ismat-Samadov/crop_desease_detection) - YOLOv8-based model achieving 93.3% mAP50 for detecting diseased trees in aerial UAV imagery.
 - [**Chest Cancer Detection**](https://github.com/Ismat-Samadov/chest_cancer_detection) - Deep learning model for detecting cancer in chest CT scans using DenseNet121 with attention mechanisms, deployed as a web application
 
 ### Natural Language Processing & AI
