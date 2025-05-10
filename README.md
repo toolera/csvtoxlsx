@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 
 ## 🔥 Featured Projects
 
-### Healthcare & Medical Imaging
+### Computer Vision & Medical Imaging
+- [**Tree Disease Detection**](https://github.com/Ismat-Samadov/crop_desease_detection) - YOLOv8-based model achieving 93.3% mAP50 for detecting diseased trees in aerial UAV imagery. [Live Demo](https://huggingface.co/spaces/IsmatS/tree-disease-detector-demo) | [Model](https://huggingface.co/IsmatS/crop_desease_detection)
 - [**Chest Cancer Detection**](https://github.com/Ismat-Samadov/chest_cancer_detection) - Deep learning model for detecting cancer in chest CT scans using DenseNet121 with attention mechanisms, deployed as a web application
 
 ### Natural Language Processing & AI
@@ -32,12 +33,13 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 
 ## 💻 Technical Skills
 - **Languages**: Python, SQL, JavaScript
-- **ML/DL**: scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers
+- **ML/DL**: scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers, YOLOv8
+- **Computer Vision**: Object Detection, Image Classification, Medical Imaging Analysis
 - **NLP**: Named Entity Recognition, Language Modeling, Text Generation
 - **Web Development**: FastAPI, React, Node.js
 - **Data Processing**: pandas, NumPy, PySpark
 - **Visualization**: Matplotlib, Seaborn, Plotly
-- **Cloud & DevOps**: Render, Vercel, Git, Fly.io
+- **Cloud & DevOps**: Render, Vercel, Git, Fly.io, Hugging Face Spaces
 
 ## 🌐 Language Technologies
 - Custom NER models for Azerbaijani language
@@ -51,10 +53,10 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 - Developing scalable ML systems for real-time analytics
 - Contributing to open-source ML projects
 - Building NLP tools for the Azerbaijani language
+- Computer vision applications in agriculture and environmental monitoring
 
 > "In God we trust, all others must bring data." - W. Edwards Deming
 
 ---
 *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration opportunities.*
-
 *Visit my website: [ismat.pro](https://www.ismat.pro/)*
