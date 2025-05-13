@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 
 ## 🔥 Featured Projects
 
+### AI & Intelligent Agents
+- [**Agent Implementation**](https://github.com/Ismat-Samadov/agent_implementation) - A comprehensive framework for implementing, visualizing, and comparing different types of intelligent agents (Simple Reflex, Model-Based, Utility-Based, and Q-Learning) in grid-world environments with interactive web-based visualization
+
 ### Computer Vision & Medical Imaging
 - [**Tree Disease Detection**](https://github.com/Ismat-Samadov/crop_desease_detection) - YOLOv8-based model achieving 93.3% mAP50 for detecting diseased trees in aerial UAV imagery.
 - [**Chest Cancer Detection**](https://github.com/Ismat-Samadov/chest_cancer_detection) - Deep learning model for detecting cancer in chest CT scans using DenseNet121 with attention mechanisms, deployed as a web application
