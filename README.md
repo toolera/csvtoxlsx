@@ -128,8 +128,6 @@ I believe in building ML systems that are:
 ---
 *Thanks for visiting my profile! I'm always interested in discussing ML engineering challenges, system architecture, and collaboration opportunities.*
 
-*Visit my website: [ismat.pro](https://www.ismat.pro/)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismat-samadov)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismat-Samadov)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.ismat.pro/)
