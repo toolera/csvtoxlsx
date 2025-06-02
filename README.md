@@ -1,67 +1,115 @@
 # 👋 Hi, I'm Ismat Samadov
-Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machine learning, predictive modeling, and full-stack development. My focus is on creating practical AI solutions that drive business value, particularly in banking, healthcare, and finance sectors.
+Welcome to my GitHub profile! I'm a **Machine Learning Engineer** specializing in building scalable AI systems, production-ready ML pipelines, and end-to-end model deployment. My expertise spans computer vision, NLP, and MLOps, with a focus on creating robust solutions that deliver real-world business impact across banking, healthcare, and finance sectors.
 
 ## 🚀 About Me
-- 💼 **Data & Product Analyst** with expertise in predictive modeling, CLV analysis, and machine learning applications
+- 🛠️ **Machine Learning Engineer** with expertise in production ML systems, model deployment, and MLOps
 - 🎓 Pursuing an MBA in Artificial Intelligence at Azerbaijan State University of Economics
-- 🛠️ Experienced in developing end-to-end ML solutions, from data processing to API deployment
-- 📊 Specialized in financial modeling, customer analytics, and risk assessment
+- ⚡ Experienced in building end-to-end ML pipelines, from data engineering to production deployment
+- 🏗️ Specialized in scalable system architecture, model optimization, and real-time inference systems
+- 📊 Strong background in financial ML, computer vision, and NLP applications
 
-## 🔥 Featured Projects
+## 🔥 Featured Engineering Projects
 
-### AI & Intelligent Agents
-- [**Agent Implementation**](https://github.com/Ismat-Samadov/agent_implementation) - A comprehensive framework for implementing, visualizing, and comparing different types of intelligent agents (Simple Reflex, Model-Based, Utility-Based, and Q-Learning) in grid-world environments with interactive web-based visualization
+### 🤖 AI Systems & Intelligent Agents
+- [**Agent Implementation Framework**](https://github.com/Ismat-Samadov/agent_implementation) - Production-ready framework for implementing and comparing intelligent agents (Simple Reflex, Model-Based, Utility-Based, Q-Learning) with containerized deployment and interactive visualization pipeline
 
-### Computer Vision & Medical Imaging
-- [**Tree Disease Detection**](https://github.com/Ismat-Samadov/crop_desease_detection) - YOLOv8-based model achieving 93.3% mAP50 for detecting diseased trees in aerial UAV imagery.
-- [**Chest Cancer Detection**](https://github.com/Ismat-Samadov/chest_cancer_detection) - Deep learning model for detecting cancer in chest CT scans using DenseNet121 with attention mechanisms, deployed as a web application
+### 👁️ Computer Vision & Medical AI
+- [**Tree Disease Detection System**](https://github.com/Ismat-Samadov/crop_desease_detection) - Production YOLOv8 model achieving 93.3% mAP50 for real-time tree disease detection in UAV imagery, with optimized inference pipeline and REST API deployment
+- [**Chest Cancer Detection Platform**](https://github.com/Ismat-Samadov/chest_cancer_detection) - End-to-end medical imaging solution using DenseNet121 with attention mechanisms, featuring automated preprocessing, model serving, and web-based diagnostic interface
 
-### Natural Language Processing & AI
-- [**Named Entity Recognition for Azerbaijani**](https://github.com/Ismat-Samadov/Named_Entity_Recognition) - Custom NER model for Azerbaijani language with FastAPI deployment and interactive demo
-- [**Azerbaijani Language GPT Model**](https://github.com/Ismat-Samadov/GPT) - GPT implementation trained on Azerbaijani Wikipedia data for text generation
+### 🔤 NLP & Language Engineering
+- [**Azerbaijani NER Engine**](https://github.com/Ismat-Samadov/Named_Entity_Recognition) - Custom Named Entity Recognition system for Azerbaijani language with FastAPI microservice architecture, containerized deployment, and real-time inference capabilities
+- [**Azerbaijani GPT Implementation**](https://github.com/Ismat-Samadov/GPT) - Transformer-based language model trained on Azerbaijani Wikipedia corpus, optimized for efficient text generation with custom tokenization and inference optimization
 
-### Banking & Finance
-- [**Advanced PD Model API**](https://github.com/Ismat-Samadov/probability_default) - Enterprise-grade Probability of Default scoring system with Basel III & IFRS 9 compliance, featuring multi-segment models (Retail, SME, Corporate), real-time predictions, batch processing, and comprehensive web interface with regulatory-compliant risk assessment
-- [**CLV Prediction Model**](https://github.com/Ismat-Samadov/clv_model) - Advanced Customer Lifetime Value prediction system using gradient boosting and FastAPI
-- [**Budget Prediction**](https://github.com/Ismat-Samadov/Budget_Prediction) - ML-powered budget analysis and forecasting
-- [**Loan Eligibility Prediction**](https://github.com/Ismat-Samadov/Loan_Eligiblity) - Automated loan assessment system
+### 🏦 Financial ML Systems
+- [**Enterprise PD Scoring API**](https://github.com/Ismat-Samadov/probability_default) - Production-grade Probability of Default system with Basel III & IFRS 9 compliance, featuring:
+  - Multi-segment ML models (Retail, SME, Corporate)
+  - Real-time scoring engine with sub-100ms latency
+  - Batch processing pipeline for large-scale assessments
+  - Comprehensive monitoring and model performance tracking
+- [**CLV Prediction Engine**](https://github.com/Ismat-Samadov/clv_model) - Scalable Customer Lifetime Value prediction system using gradient boosting with automated feature engineering and A/B testing framework
+- [**Automated Loan Assessment Platform**](https://github.com/Ismat-Samadov/Loan_Eligiblity) - ML-powered loan decision system with real-time risk scoring and explainable AI features
 
-### Real Estate & Automotive
-- [**Home Price Prediction**](https://github.com/Ismat-Samadov/Home_Price_Prediciton) - Real estate valuation model for Azerbaijan market
-- [**Car Price Prediction**](https://github.com/Ismat-Samadov/Car_Price_Prediction) - Vehicle price estimation using advanced ML algorithms
+### 🏘️ Market Intelligence Systems
+- [**Real Estate Valuation Engine**](https://github.com/Ismat-Samadov/Home_Price_Prediciton) - Production ML system for Azerbaijan real estate market with automated data pipelines and market trend analysis
+- [**Automotive Price Intelligence**](https://github.com/Ismat-Samadov/Car_Price_Prediction) - Vehicle valuation platform using ensemble methods with real-time market data integration
 
-### Analytics & ML Applications
-- [**Sales Forecasting**](https://github.com/Ismat-Samadov/Sales_Forecasting) - Time-series analysis for Adidas sales prediction
-- [**Fraud Detection**](https://github.com/Ismat-Samadov/fraud_detection) - Real-time fraud detection system with synthetic data generation
-- [**Fake News Detection**](https://github.com/Ismat-Samadov/Fake_News_Detection) - NLP-based fake news classification system
+### 📈 Time Series & Anomaly Detection
+- [**Sales Forecasting Pipeline**](https://github.com/Ismat-Samadov/Sales_Forecasting) - Time-series forecasting system with automated model selection and drift detection
+- [**Real-time Fraud Detection**](https://github.com/Ismat-Samadov/fraud_detection) - Streaming ML system for fraud detection with synthetic data generation and adaptive learning
+- [**Fake News Detection API**](https://github.com/Ismat-Samadov/Fake_News_Detection) - NLP-based misinformation detection with transformer models and real-time classification
 
-## 💻 Technical Skills
-- **Languages**: Python, SQL, JavaScript
-- **ML/DL**: scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers, YOLOv8
-- **Computer Vision**: Object Detection, Image Classification, Medical Imaging Analysis
-- **NLP**: Named Entity Recognition, Language Modeling, Text Generation
-- **Web Development**: FastAPI, React, Node.js
-- **Data Processing**: pandas, NumPy, PySpark
-- **Visualization**: Matplotlib, Seaborn, Plotly
-- **Cloud & DevOps**: Render, Vercel, Git, Fly.io, Hugging Face Spaces
+## 🛠️ Technical Stack
 
-## 🌐 Language Technologies
-- Custom NER models for Azerbaijani language
-- GPT implementation for Azerbaijani text generation
+### **ML Engineering & MLOps**
+- **Model Development**: TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers
+- **Computer Vision**: YOLOv8, OpenCV, PIL, Medical Imaging (DICOM processing)
+- **NLP**: Transformers, spaCy, NLTK, Custom Tokenizers, Language Models
+- **MLOps**: Model versioning, automated training pipelines, A/B testing frameworks
+- **Monitoring**: Model performance tracking, drift detection, logging systems
+
+### **Production Infrastructure**
+- **API Development**: FastAPI, Flask, REST/GraphQL APIs, WebSocket real-time streaming
+- **Containerization**: Docker, Kubernetes, microservices architecture
+- **Cloud Deployment**: Render, Vercel, Fly.io, Hugging Face Spaces
+- **Databases**: PostgreSQL, MongoDB, Redis (caching), Vector databases
+- **Message Queues**: Apache Kafka, RabbitMQ for streaming data processing
+
+### **Data Engineering**
+- **Processing**: pandas, NumPy, PySpark, Dask for distributed computing
+- **Feature Engineering**: Automated feature selection, pipeline optimization
+- **Data Validation**: Great Expectations, data quality monitoring
+- **ETL Pipelines**: Apache Airflow, data lineage tracking
+
+### **Programming & DevOps**
+- **Languages**: Python, SQL, JavaScript/TypeScript, Bash
+- **Version Control**: Git, DVC for data/model versioning
+- **CI/CD**: GitHub Actions, automated testing, deployment pipelines
+- **Monitoring**: Prometheus, Grafana, custom dashboards
+
+## 🌐 Specialized Domains
+
+### **Language Technologies**
+- Low-resource language processing (Azerbaijani NLP)
+- Custom tokenization and vocabulary building
 - Multilingual model fine-tuning (mBERT, XLM-RoBERTa)
-- Low-resource language computing and NLP
+- Cross-lingual transfer learning
 
-## 🌱 Current Focus
-- Advancing deep learning applications in financial forecasting
-- Exploring transformer models for time-series prediction
-- Developing scalable ML systems for real-time analytics
-- Contributing to open-source ML projects
-- Building NLP tools for the Azerbaijani language
-- Computer vision applications in agriculture and environmental monitoring
+### **Financial ML**
+- Regulatory compliance (Basel III, IFRS 9)
+- Risk modeling and credit scoring
+- Time-series forecasting for financial markets
+- Real-time transaction processing
 
-> "In God we trust, all others must bring data." - W. Edwards Deming
+### **Computer Vision**
+- Medical imaging analysis and DICOM processing
+- Agricultural monitoring and disease detection
+- Real-time object detection and tracking
+- Custom dataset creation and augmentation
+
+## 🎯 Current Engineering Focus
+- **MLOps & Model Lifecycle Management**: Building automated ML pipelines with continuous integration and deployment
+- **Real-time Inference Systems**: Developing low-latency model serving infrastructure for production environments
+- **Edge AI Deployment**: Optimizing models for mobile and IoT devices using quantization and pruning techniques
+- **Distributed Training**: Implementing large-scale model training across multiple GPUs and nodes
+- **Model Interpretability**: Building explainable AI systems for regulated industries
+- **Open Source Contributions**: Contributing to ML infrastructure and Azerbaijani language processing tools
+
+## 📊 System Design Philosophy
+I believe in building ML systems that are:
+- **Scalable**: Designed to handle increasing data volumes and user loads
+- **Reliable**: Robust error handling, graceful degradation, and high availability
+- **Maintainable**: Clean code, comprehensive testing, and thorough documentation
+- **Observable**: Comprehensive logging, monitoring, and alerting systems
+- **Secure**: Data privacy, model security, and compliance with industry standards
+
+> "The best machine learning engineers are not just good at building models, but at building systems that make models useful." - Chip Huyen
 
 ---
-*Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration opportunities.*
+*Thanks for visiting my profile! I'm always interested in discussing ML engineering challenges and collaboration opportunities.*
 
 *Visit my website: [ismat.pro](https://www.ismat.pro/)*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismat-samadov)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismat-Samadov)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.ismat.pro/)
