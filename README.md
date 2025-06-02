@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a Data & Product Analyst specializing in machi
 - [**Azerbaijani Language GPT Model**](https://github.com/Ismat-Samadov/GPT) - GPT implementation trained on Azerbaijani Wikipedia data for text generation
 
 ### Banking & Finance
+- [**Advanced PD Model API**](https://github.com/Ismat-Samadov/pd-model-api) - Enterprise-grade Probability of Default scoring system with Basel III & IFRS 9 compliance, featuring multi-segment models (Retail, SME, Corporate), real-time predictions, batch processing, and comprehensive web interface with regulatory-compliant risk assessment
 - [**CLV Prediction Model**](https://clv-model.onrender.com/) - Advanced Customer Lifetime Value prediction system using gradient boosting and FastAPI
 - [**Budget Prediction**](https://github.com/Ismat-Samadov/Budget_Prediction) - ML-powered budget analysis and forecasting
 - [**Loan Eligibility Prediction**](https://github.com/Ismat-Samadov/Loan_Eligiblity) - Automated loan assessment system
