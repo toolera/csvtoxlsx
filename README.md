@@ -40,29 +40,6 @@
 - [**Real-time Fraud Detection**](https://github.com/Ismat-Samadov/fraud_detection) - Streaming ML system for transaction fraud detection with adaptive learning and low-latency inference.
 
 - [**Fake News Detection API**](https://github.com/Ismat-Samadov/Fake_News_Detection) - NLP-based misinformation detection using transformer models with real-time classification and bias detection.
-
-## 🛠️ Technical Stack
-
-**ML & MLOps**: TensorFlow, PyTorch, scikit-learn, Transformers, XGBoost, MLflow, W&B, Kubeflow  
-**Computer Vision**: YOLOv8, OpenCV, Medical Imaging (DICOM), Detectron2  
-**NLP**: Transformers, spaCy, NLTK, Custom Tokenizers, Language Models  
-**Production**: FastAPI, Docker, Kubernetes, AWS/GCP/Azure, PostgreSQL, MongoDB, Redis  
-**Data Engineering**: pandas, PySpark, Airflow, Apache Kafka, Great Expectations  
-**DevOps**: Git, GitHub Actions, Prometheus, Grafana, CI/CD pipelines  
-
-## 🎯 Current Focus
-- **MLOps**: Building automated ML pipelines with CI/CD and monitoring
-- **Real-time Systems**: Low-latency model serving for high-throughput environments  
-- **Edge AI**: Model optimization for mobile and IoT deployment
-- **Open Source**: Contributing to ML infrastructure and Azerbaijani NLP tools
-
-## 🏆 Key Achievements
-- Built production ML systems serving **1M+ daily predictions** with sub-100ms latency
-- Developed **Basel III compliant** risk models for enterprise banking
-- Created **multi-language NLP** solutions for low-resource languages
-- Implemented **real-time fraud detection** with 99.5% accuracy
-- Established **MLOps practices** reducing deployment time from weeks to hours
-
 ---
 *Building reliable, scalable ML systems that deliver real-world value.*
 
