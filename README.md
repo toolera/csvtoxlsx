@@ -2,10 +2,10 @@
 **Machine Learning Engineer** specializing in production ML systems, MLOps, and end-to-end model deployment. I build scalable AI solutions across computer vision, NLP, and financial ML with real-world business impact.
 
 ## 🚀 About Me
-- 🛠️ **ML Engineer** focused on production systems and model deployment
-- 🎓 MBA candidate in AI at Azerbaijan State University of Economics
-- ⚡ Expert in building end-to-end ML pipelines and scalable architecture
-- 📊 Specialized in financial ML, computer vision, and NLP applications
+- 🛠️ **ML Engineer** focused on production systems and model deployment.
+- 🎓 MBA candidate in AI at Azerbaijan State University of Economics.
+- ⚡ Expert in building end-to-end ML pipelines and scalable architecture.
+- 📊 Specialized in financial ML, computer vision, and NLP applications.
 
 ## 🔥 Featured Projects
 
@@ -40,6 +40,7 @@
 - [**Real-time Fraud Detection**](https://github.com/Ismat-Samadov/fraud_detection) - Streaming ML system for transaction fraud detection with adaptive learning and low-latency inference.
 
 - [**Fake News Detection API**](https://github.com/Ismat-Samadov/Fake_News_Detection) - NLP-based misinformation detection using transformer models with real-time classification and bias detection.
+
 ---
 *Building reliable, scalable ML systems that deliver real-world value.*
 
