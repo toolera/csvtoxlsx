@@ -27,7 +27,6 @@ Welcome to my comprehensive project portfolio! This repository serves as an inde
 | **Trackio** - Habit Tracking | [GitHub](https://github.com/Ismat-Samadov/trackio) | [trackio.art](https://www.trackio.art/) | ⏸️ |
 | **Birjob** - Job Search Platform | [GitHub](https://github.com/Ismat-Samadov/birjob) | [birjob.com](https://www.birjob.com/) | ⏸️ |
 | **Banking Locator** | [GitHub](https://github.com/Ismat-Samadov/banking_locator) | [Live Demo](https://banking-locator.onrender.com) | ✅ |
-| **Self-Driving Car Simulation** | [GitHub](https://github.com/Ismat-Samadov/self_driving_car) | [Live Demo](https://ismat-samadov.github.io/self_driving_car/) | ⏸️ |
 
 ## 🤖 Machine Learning Models
 
@@ -67,7 +66,6 @@ Welcome to my comprehensive project portfolio! This repository serves as an inde
 
 | Project | Repository | Live Demo | Status |
 |---------|------------|-----------|--------|
-| **Agent Implementation** | [GitHub](https://github.com/Ismat-Samadov/agent_implementation) | [Live Demo](https://agent-implementation.onrender.com) | ✅ |
 | **Banking Assistant** | [GitHub](https://github.com/Ismat-Samadov/banking_assistant) | [Live Demo](https://banking-assistant-92h8.onrender.com/) | ✅ |
 | **Demo Chatbot** | [GitHub](https://github.com/Ismat-Samadov/chatbot_app) | [Live Demo](https://chatbot-app-d9i6.onrender.com/) | ✅ |
 
@@ -90,6 +88,7 @@ Welcome to my comprehensive project portfolio! This repository serves as an inde
 
 | Project | Repository | Live Demo | Status |
 |---------|------------|-----------|--------|
+| **Agent Implementation** | [GitHub](https://github.com/Ismat-Samadov/agent_implementation) | [Live Demo](https://agent-implementation.onrender.com) | ✅ |
 | **Self-Driving Car Simulation** | [GitHub](https://github.com/Ismat-Samadov/self_driving_car) | [Live Demo](https://ismat-samadov.github.io/self_driving_car/) | ⏸️ |
 
 ---
