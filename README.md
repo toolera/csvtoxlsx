@@ -26,10 +26,6 @@ Master's in Artificial Intelligence at Azerbaijan State University of Economics,
 **Specialized:** Fraud Detection Models, Credit Risk Assessment, Financial Analytics  
 **Cloud & Tools:** Git, Jupyter, MLflow, Model Versioning
 
-## 📊 GitHub Stats
-
-![Ismat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismat-Samadov&show_icons=true&theme=dark&count_private=true)
-
 ## 🌱 Currently Working On
 
 Developing intelligent fraud detection systems and exploring advanced ML architectures for financial applications. Building a portfolio of production-ready ML solutions spanning computer vision, NLP, and predictive modeling with a focus on real-world deployment and business impact.
