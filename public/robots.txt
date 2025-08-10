@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://csvtoxlsx.vercel.app/sitemap.xml
